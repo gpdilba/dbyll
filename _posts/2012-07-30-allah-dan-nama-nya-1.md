@@ -15,12 +15,11 @@ meta:
   sermon_date: '1343525838'
   bible_passage: Keluaran 3:13-14
   _edit_last: '2'
-  sermon_audio: http://archive.org/download/GpdiLbaAllahDanNama-nya/GpdiLbaAllahDanNama-nya.mp3
   Views: '129'
 author:
   Pdt. B. Manurung
 ---
-<audio controls><source src="http://archive.org/download/GpdiLbaAllahDanNama-nya/GpdiLbaAllahDanNama-nya.mp3"></audio><br />
+<audio controls><source src="https://archive.org/download/GpdiLbaAllahDanNama-nya/GpdiLbaAllahDanNama-nya.mp3"></audio><br />
 <p>Bible Text: Keluaran 3:13-14 | Series: Allah dan Nama-Nya</p>
 <p>Lalu Musa berkata kepada Allah: "Tetapi apabila aku mendapatkan orang Israel dan berkata kepada mereka: Allah nenek moyangmu telah mengutus aku kepadamu, dan mereka bertanya kepadaku: bagaimana tentang nama-Nya? --apakah yang harus kujawab kepada mereka?" Firman Allah kepada Musa: "AKU ADALAH AKU." Lagi firman-Nya: "Beginilah kaukatakan kepada orang Israel itu: AKULAH AKU telah mengutus aku kepadamu."<br />
 Kutipan di atas adalah percakapan antara Allah dan Musa di gunung Horeb ketika ia hendak diutus untuk memimpin bangsa Israel untuk melepaskan dari perbudakan di Mesir. Selama 40 tahun dididik dalam lingkungan istana Firaun, namun ia tetap mencintai bangsanya. Pernah ia berusaha melerai teman sebangsanya yang berkelahi, namun berawal dari hal itulah teman sebangsanya membongkar rahasia Musa yang pernah membunuh seorang Mesir, dan Musa pun melarikan diri ke tanah Midian. Di Midian Musa menjadi penggembala kambing domba, yang merupakan kekejian bagi orang Mesir.</p>
