@@ -5,27 +5,23 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+title: GPdI Maranatha Siantar
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: GPdI Maranatha Siantar
 
-description: Stylish Jekyll Theme
+description: Gereja Pantekosta di Indonesia Maranatha Pematangsiantar
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: GPdI Maranatha Siantar
+  email: info@gpdimaranathasiantar.org
+  github: gpdilba
+  twitter: gpdilba
+  bio: Betapa hebat kuasa-Nya bagi kita yang percaya.
+  email_md5: 0a692a53f6c4d69b171a1a570eae4ac3
 
 rss_path: feed.xml
 categories_path: categories.html
