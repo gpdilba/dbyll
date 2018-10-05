@@ -15,13 +15,10 @@ meta:
   Views: '893'
   sermon_date: '1347222892'
   enclosure: |
-    http://archive.org/download/GpdiLbaPanggilanUntukMenderita/GpdiLbaPanggilanUntukMenderita.mp3
-    0
-    audio/mpeg
 author:
   Pdt. O. Nainggolan
 ---
-<audio controls><source src="http://archive.org/download/GpdiLbaPanggilanUntukMenderita/GpdiLbaPanggilanUntukMenderita.mp3"></audio><br />
+<audio controls><source src="https://archive.org/download/GpdiLbaPanggilanUntukMenderita/GpdiLbaPanggilanUntukMenderita.mp3"></audio><br />
 <p>Bible Text: 2 Timotius 2:1-7</p>
 <p>Kuat oleh kasih karunia Yesus artinya kita berada dalam Kristus Yesus, menjadi ciptaan baru (2 Korintus 5:17), yang dipenuhi dengan Roh Kudus, sehingga roh, jiwa dan tubuh kita dibaharui. Dengan demikian Roh Kuduslah yang memimpin hidup kita, memberi kekuatan. Ada hal yang indah jika kita berada dalam Kristus. Dalam Yohanes 15:7 disebutkan, "Jikalau kamu tinggal di dalam Aku dan firman-Ku tinggal di dalam kamu, mintalah apa saja yang kamu kehendaki, dan kamu akan menerimanya." Orang yang sudah berada dalam Kristus menjadi kuat, dapat mengalahkan kekuatiran yang menimpa hidup.</p>
 <p>Firman Tuhan harus disebarkan, diberitakan dengan "estafet"<br />
