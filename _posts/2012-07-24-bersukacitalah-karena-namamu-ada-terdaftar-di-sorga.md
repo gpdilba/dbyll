@@ -16,11 +16,10 @@ meta:
   sermon_date: '1343171540'
   bible_passage: Lukas 10:17-20
   _edit_last: '1'
-  sermon_audio: http://archive.org/download/GpdiLbaBersukacitalahKarenaNamamuAdaTerdaftarDiSorga/GpdiLbaBersukacitalahKarenaNamamuAdaTerdaftarDiSorga.mp3
 author:
   Pdt. B. Manurung
 ---
-<audio controls><source src="http://archive.org/download/GpdiLbaBersukacitalahKarenaNamamuAdaTerdaftarDiSorga/GpdiLbaBersukacitalahKarenaNamamuAdaTerdaftarDiSorga.mp3"></audio><br />
+<audio controls><source src="https://archive.org/download/GpdiLbaBersukacitalahKarenaNamamuAdaTerdaftarDiSorga/GpdiLbaBersukacitalahKarenaNamamuAdaTerdaftarDiSorga.mp3"></audio><br />
 <p>Bible Text: Lukas 10:17-20</p>
 <p>Seringkali kita manusia membanggakan prestasi yang kita raih. Kelompok tujuh puluh murid memberi laporan kepada Yesus bahwa mereka telah berhasil mengusir setan dan setan-setan takluk kepada mereka. Namun Yesus tidak memuji, bahkan menegur mereka. Prestasi yang kita dapatkan tidak perlu dibangga-banggakan, tetapi direspons dengan ucapan syukur bahwa semuanya hanya karena anugrah Tuhan. Kita patut bersyukur dengan apa yang sudah kita miliki, tetapi sukacita yang paling penting adalah apabila nama kita sudah terdaftar di sorga. Mengapa? Karena masuk tidaknya seseorang ke dalam sorga ditentukan oleh ada tidaknya namanya tercatat dalam Kitab Kehidupan. Yang tercatat namanya dalam Kitab Kehidupan itu adalah orang yang telah diselamatkan, telah mengalami kelahiran baru. Sama seperti akte kelahiran di catatan sipil, hanya mereka yang telah lahir namanya ada terdaftar di sana. Tidak akan ada janin yang masih usia beberapa bulan dalam kandungan yang boleh didaftarkan. Demikian jugalah secara rohani, hanya orang yang telah mengalami kelahiran baru dan beroleh keselamatan yang terdaftar di sorga.</p>
 <p>Bagaimana seorang yang lahir baru?<br />
