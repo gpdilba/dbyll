@@ -1,0 +1,31 @@
+---
+layout: post
+title: Bermegah dalam Penderitaan (1)
+date: 2013-09-29 13:41:16.000000000 +07:00
+type: wpfc_sermon
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: [Salib]
+tags: [Roma]
+meta:
+  post_views_count: '933'
+  Views: '698'
+  sermon_date: '1380375676'
+  
+author:
+  Pdt. B. Manurung
+---
+<p>Bible Text: Roma 5:1-3 | Series: Salib</p>
+<p>Kitab Roma adalah salah satu kitab Perjanjian Baru yang penuh dengan rahasia iman dan kebahagiaan. Bapak Reformasi Gereja, Dr.Marthin Luther terinspirasi dari kitab Roma membuat pembaharuan dalam gereja. Salah satu hal yang ditekankannya adalah bahwa kita dibenarkan dan selamat hanya oleh iman. Iman kita itu dahsyat dan dihargai oleh Allah. Oleh iman kita beroleh sentosa dgn ALLAH,  beroleh peluang ( jalan masuk ) kepada kasih karunia menerima kemuliaan, bahkan bermegah dalam kesengsaraan. Banyak orang yang tidak suka mengalami penderitaan atau sengsara, padahal iman dan penderitan itu adalah “kembar”, tidak dapat dipisahkan satu dengan yang lain.</p>
+<p>KEPADA YANG BERIMAN DIANUGERAHKAN PENDERITAAN</p>
+<p>Memang sukar dimengerti mengapa untuk berbahagia kita harus menjadi orang yang beriman sekaligus juga harus menderita. Banyak orang yang ingin bahagia tetapi tidak mau menderita. Tetapi Rasul Paulus menulis ini sebagai bagian dari pengalamannya, ia telah mengalaminya sebagaimana yang telah dialami Kristus juga. Dalam suratnya kepada jemaat Filipi, ia mengatakan: “Sebab kepada kamu dikaruniakan bukan saja untuk percaya kepada Kristus, melainkan juga untuk menderita untuk Dia.” ( Filipi 1 : 29 )</p>
+<p>Penderitaan yang bagaimanakah yang dimaksud Alkitab yang membuat kita bahagia? Kadangkala ada penderitaan karena kesalahan kita sendiri. Namun yang dimaksud oleh Alkitab adalah penderitaan karena kita hidup dalam kebenaran,melakukan Firman Tuhan. Dalam salah satu khotbah Yesus di bukit,Ia berkata: “Berbahagialah orang yang dianiaya oleh sebab kebenaran, karena merekalah yang empunya Kerajaan Sorga.”  ( Matius 5:10 ). Orang benar memang harus menderita sengsara dan aniaya, sebaliknya orang jahat suka menganiaya orang benar. Bukankah kita sering menderita oleh lingkungan kita ketika melakukan hal yang benar? Habel teraniaya oleh Kain, sebab segala perbuatan Kain adalah jahat dan perbutaan Habel benar ( I Yohanes 3 : 12 ). Memang setiap orang yang beribadah di dalam Kristus Yesus harus siap untuk menderita ( 2 Timotius 3 : 12 ).</p>
+<p>PENDERITAAN UNTUK MENDIDIK KITA</p>
+<p>Bila manusia menghadapi masalah, penderitaan, cobaan, sering bertanya mengapa Tuhan mengizinkan hal tersebut? Manusia cenderung tidak suka penderitaan, bahkan kalau boleh meraih keberhasilan dengan cepat, dengan jalan pintas walaupun salah kadang dijalani juga. Tetapi jalan Tuhan lain, Ia ingin mendidik umatNya supaya sabar dan percaya kepada Allah dengan teguh.</p>
+<p>Bangsa Israel sebenarnya bisa saja tiba di Kanaan dengan cepat, melalui jalan pintas yang hanya memakan waktu beberapa hari, sebagaimana saudara-saudara Yusuf pada zaman Firaun yang berangkat dari negeri mereka bisa sampai dalam beberapa hari ke Mesir, tetapi itu bukan rencana Tuhan. Dalam Keluaran 13 : 17-18 disebutkan: “Setelah Firaun membiarkan bangsa itu pergi, Allah tidak menuntun mereka melalui jalan ke negeri orang Filistin, walaupun jalan ini yang paling dekat; sebab firman Allah: “Jangan-jangan bangsa itu menyesal, apabila mereka menghadapi peperangan, sehingga mereka kembali ke Mesir.”  Tetapi Allah menuntun bangsa itu berputar melalui jalan di padang gurun menuju ke Laut Teberau. Sebenarnya perjalanan ini pun tidak begitu lama, hanya sekitar 40 hari. Namun akibat mereka tidak setia, suka bersungut-sungut dan menggerutu terhadap pemimpin mereka, Musa dan Harun sehingga persungutan mereka sampai di hadirat Allah, maka Tuhan menghukum ketidaksetiaan dan ketidakpercayaan mereka, maka perjalanan yang seharusnya “40 hari” menjadi “40 tahun” ( Bilangan 14 : 34 )</p>
+<p>Memang orang Israel yang terprovokasi oleh “bangsa kacauan” yang bajingan menjadi suka bersungut-sungut bahkan bertengkar dengan Musa, sampai Musa mau dilempari dengan batu karena ketiadaan minuman dan makanan. Dalam Keluaran 17 : 2 disebutkan: “Jadi mulailah mereka itu bertengkar dengan Musa, kata mereka: "Berikanlah air kepada kami, supaya kami dapat minum." Tetapi Musa berkata kepada mereka: "Mengapakah kamu bertengkar dengan aku? Mengapakah kamu mencobai TUHAN?”.  Bangsa ini juga suka menyimpan batu dalam saku jubah mereka, yang biasa digunakan untuk senjata melempari orang yang bersalah dalam pandangan mereka, sebagaimana sering diungkapkan dalam Perjanjian Baru juga. Dan Musa berseru-seru ( ”mangangguhi” – bahasa Batak Toba ) karena bangsa itu hendak melempari dia dengan batu ( Keluaran 17 : 4 ).</p>
+<p>Allah kadang mengizinkan kita melewati jalan berputar, melewati padang gurun, melewati ”Mara” yang pahit supaya kita dididik untuk sabar dan taat pada Firman-Nya. Kita kadang dididik dan dihajar Tuhan, karena ia menganggap kita sebagai anak yang dikasihi ( Ibrani 12 : 5-6)</p>
+<p>PENDERITAAN UNTUK  MENDEWASAKAN DAN MENYEMPURNAKAN IMAN KITA</p>
+<p>Tuhan punya rencana yang indah untu umatNya. Kadang sebagai manusia kita tidak bisa sabar untuk janji Tuhan. Manusia suka jalan pintas, suka yanginstan. Sekarang banyak orang mau dapat gelar tapi tak usah belajar, pingin cepat dapat pangkat dengan imbalan suap, dsb. Mungkin kita mengalami tekanan dalam pekerjaan bila berbuat kebenaran, tetapi itulah penderitaan yang kelak membuat kita bahagia. Anak Tuhan harus bisa belajar sabar dan dewasa menghadapi cobaan dan penderitaan. Tuhan mengizinkan penderitaan berlaku atas umatNya untuk melatih kita supaya imannya bertumbuh, bisa menjadi sabar dan tekun, tidak gampang gusar, karena orang yang sabar dan tekunlah memperoleh iman yang matang dan dewasa. Dalam Yakobus 1 : 2-4 disebutkan: ”Saudara-saudaraku, anggaplah sebagai suatu kebahagiaan, apabila kamu jatuh ke dalam berbagai-bagai pencobaan, sebab kamu tahu, bahwa ujian terhadap imanmu itu menghasilkan ketekunan. Dan biarkanlah ketekunan itu memperoleh buah yang matang, supaya kamu menjadi sempurna dan utuh dan tak kekurangan suatu apa pun.” Dan apabila kita bertahan dalam pencobaan, kita adalah orang-orang yang tahan uji yang mendapat pujian dari Allah dan mendapatkan mahkota kehidupan.( Yakobus 1 : 12 )</p>
