@@ -14,12 +14,11 @@ meta:
   Views: '345'
   post_views_count: '510'
   sermon_date: '1343172850'
-  sermon_audio: http://archive.org/download/GpdiLbaDapatkahNamaDihapusDariKitabKehidupan/GpdiLbaDapatkahNamaDihapusDariKitabKehidupan.mp3
   _edit_last: '2'
 author:
   Pdt. B. Manurung
 ---
-<audio controls><source src="http://archive.org/download/GpdiLbaDapatkahNamaDihapusDariKitabKehidupan/GpdiLbaDapatkahNamaDihapusDariKitabKehidupan.mp3"></audio><br />
+<audio controls><source src="https://archive.org/download/GpdiLbaDapatkahNamaDihapusDariKitabKehidupan/GpdiLbaDapatkahNamaDihapusDariKitabKehidupan.mp3"></audio><br />
 <p>Bible Text: Keluaran 32:33</p>
 <p>Nama yang sudah terdaftar dalam Kitab Kehidupan suatu saat dapat dihapus apabila melakukan suatu dosa besar. Nama bangsa Israel pernah hampir dihapus Tuhan karena mereka membuat patung lembu dari emas di bawah pimpinan Harun, ketika Musa masih berada di Gunung Sinai. Bangsa Israel memang terkenal dengan karakternya yang lekas gusar dan tidak dapat sabar. Mereka menyerahkan perhiasan emas dan perak yang mereka peroleh dari Mesir ketika mereka hendak pergi dari Mesir (Keluaran 12:35-36) untuk dibuat menjadi patung lembu emas, karena mereka berkata, "Mari, buatlah untuk kami allah, yang akan berjalan di depan kami sebab Musa ini, orang yang telah memimpin kami keluar dari tanah Mesir -- kami tidak tahu apa yang terjadi dengan dia."</p>
 <p>Dosa yang bagaimana dapat membuat nama kita terhapus?<br />
