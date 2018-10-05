@@ -14,13 +14,12 @@ meta:
   Views: '475'
   post_views_count: '615'
   bible_passage: Yohanes 15:7-8
-  sermon_audio: http://archive.org/download/GpdiLbaBerbuahBanyakDiDalamYesus/GpdiLbaBerbuahBanyakDiDalamYesus.mp3
   _edit_last: '1'
   sermon_date: '1342564282'
 author:
   Pdt. B. Manurung
 ---
-<audio controls><source src="http://archive.org/download/GpdiLbaBerbuahBanyakDiDalamYesus/GpdiLbaBerbuahBanyakDiDalamYesus.mp3"></audio>
+<audio controls><source src="https://archive.org/download/GpdiLbaBerbuahBanyakDiDalamYesus/GpdiLbaBerbuahBanyakDiDalamYesus.mp3"></audio>
 <br />
 <p>Bible Text: Yohanes 15:7-8</p>
 <p>Hidup kita manusia digambarkan sebagai pohon, di mana Tuhan menginginkan kita untuk berbuah banyak. Suatu kali Yesus pernah mengutuk pohon yang hanya eksis dengan daunnya, tetapi tidak dijumpai buah pada pohon itu, meskipun memang bukan pada musimnya. Pohon itu seharusnya menghasilkan buah walau bukan musimnya. Munkin karena terletak di pinggir jalan, buahnya telah diambil orang lain. Demikian juga secara rohani, banyak orang Kristen yang hanya berbuah bagi diri sendiri, karir, tetapi tidak menghasilkan buah bagi Yesus. Buah apa saja yang dituntut oleh Yesus dari kita?</p>
