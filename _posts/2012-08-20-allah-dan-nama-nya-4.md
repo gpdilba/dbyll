@@ -15,12 +15,11 @@ meta:
   Views: '232'
   bible_passage: Keluaran 3:13-14
   _edit_last: '2'
-  sermon_audio: http://archive.org/download/GpdiLbaAllahDanNama-nya4/GpdiLbaAllahDanNama-nya4.mp3
   sermon_date: '1345345054'
 author:
   Pdt. B. Manurung
 ---
-<audio controls><source src="http://archive.org/download/GpdiLbaAllahDanNama-nya4/GpdiLbaAllahDanNama-nya4.mp3"></audio><br />
+<audio controls><source src="https://archive.org/download/GpdiLbaAllahDanNama-nya4/GpdiLbaAllahDanNama-nya4.mp3"></audio><br />
 <p>Bible Text: Keluaran 3:13-14 | Series: Allah dan Nama-Nya</p>
 <p>Akulah Pokok Anggur Yang Benar (Yohanes 15:1-2)</p>
 <p>Pohon anggur adalah salah satu pohon yang termasuk dalam kategori pohon kegerakan yang dipergunakan dalam Perayaan Hari Raya Pondok Daun. Pohon anggur ini sering disebut dengan "pohon elok". Dalam Imamat 23:40 disebutkan bahwa pohon anggur (pohon elok), pelepah-pelepah pohon kurma, ranting pohon yang rimbun dan pohon gandarusa digunakan dalam perayaan sukaria di Hari Raya Pondok Daun.</p>
