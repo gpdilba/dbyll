@@ -13,12 +13,11 @@ meta:
   sermon_date_auto: '0'
   post_views_count: '351'
   sermon_date: '1344132732'
-  sermon_audio: http://archive.org/download/GpdiLbaAllahDanNama-nya2/GpdiLbaAllahDanNama-nya2.mp3
   Views: '90'
 author:
   Pdt. B. Manurung
 ---
-<audio controls><source src="http://archive.org/download/GpdiLbaAllahDanNama-nya2/GpdiLbaAllahDanNama-nya2.mp3"></audio><br />
+<audio controls><source src="https://archive.org/download/GpdiLbaAllahDanNama-nya2/GpdiLbaAllahDanNama-nya2.mp3"></audio><br />
 <p>Bible Text: Keluaran 3:13-14 | Series: Allah dan Nama-Nya</p>
 <p>Akulah Gembala Yang Baik (Yohanes 10:11)<br />
 Yesus adalah Gembala Yang Baik. Sebelum Ia menjelma menjadi manusia, Ia telah menjadi Gembala bagi umat-Nya, Israel. Di padang gurun Horeb, Ia memperkenalkan nama-Nya dengan "AKU ADALAH AKU". Dalam bahasa Ibrani disebut Jahweh atau Eloah (bentuk tunggal dari Elohim) yang menunjuk kepada pribadi Yesus. Selama 40 tahun perjalanan di padang gurun, bangsa Israel dipelihara dengan ajaib dengan penggembalaan Tuhan.</p>
