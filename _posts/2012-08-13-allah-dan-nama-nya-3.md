@@ -14,13 +14,12 @@ meta:
   post_views_count: '394'
   sermon_date: '1344739680'
   bible_passage: Keluaran 3:13-14
-  sermon_audio: http://archive.org/download/GpdiLbaAllahDanNama-nya3/GpdiLbaAllahDanNama-nya3.mp3
   _edit_last: '2'
   Views: '114'
 author:
   Pdt. B. Manurung
 ---
-<audio controls><source src="http://archive.org/download/GpdiLbaAllahDanNama-nya3/GpdiLbaAllahDanNama-nya3.mp3"></audio><br />
+<audio controls><source src="https://archive.org/download/GpdiLbaAllahDanNama-nya3/GpdiLbaAllahDanNama-nya3.mp3"></audio><br />
 <p>Bible Text: Keluaran 3:13-14 | Series: Allah dan Nama-Nya</p>
 <p>Akulah Jalan dan Kebenaran dan Hidup (Yohanes 14:6)</p>
 <p>Sering kita mendengar ungkapan "seribu satu jalan ke Roma", namun menuju sorga yang kekal hanya da satu jalan yaitu Yesus. Tiada satupun pemimpin agama yang dapat menyatakan dia sebagai jalan ke sorga, selain daripada Yesus. Memang di dalam Yesus kita menemukan keselamatan kekal, namun kita juga harus berada dalam jalan kebenaran dan tidak tinggal dalam keonaran, sebab untuk mendapatkan hidup yang kekal itu kita harus berjalan di dalam kebenaran. Dalam Amsal 12:28 disebutkan, "Di jalan kebenaran terdapat hidup, tetapi jalan kemurtadan menuju maut."</p>
